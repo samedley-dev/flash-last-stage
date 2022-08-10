@@ -15,3 +15,4 @@ for i in range(1, 10000):
     if not flag:
         lychrels += 1
 print(lychrels)  # 249
+ 
